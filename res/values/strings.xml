@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GenieActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="wish_1">Wish 1</string>
+    <string name="wish_2">Wish 2</string>
+    <string name="wish_3">Wish 3</string>
+    <string name="wish_1_used">Wish 1 used</string>
+    <string name="wish_2_used">Wish 2 used</string>
+    <string name="wish_3_used">Wish 3 used</string>
+
+</resources>
